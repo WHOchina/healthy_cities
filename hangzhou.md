@@ -1,6 +1,6 @@
 ---
 layout: page
-title: hangzhou
+title: Hangzhou
 ---
 
 This is a test page, Hangzhou.
