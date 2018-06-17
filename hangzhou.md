@@ -1,8 +1,10 @@
 ---
 layout: page
 title: Hangzhou
-jsarr: -javascript/radar_chart.js
-cssar: -css/radar_chart.css
+jsarr: 
+- javascript/radar_chart.js
+cssar: 
+- css/radar_chart.css
 ---
 {::nomarkdown}
 <body onload="set_hangzhou(0)">
