@@ -1,8 +1,10 @@
 ---
 layout: page
 title: Chengdu
-jsarr: -javascript/radar_chart.js
-css: -css/radar_chart.css
+jsarr: 
+- javascript/radar_chart.js
+css: 
+- css/radar_chart.css
 ---
 
 {::nomarkdown}
