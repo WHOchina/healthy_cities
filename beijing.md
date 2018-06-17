@@ -11,7 +11,7 @@ cssar:
 <div class="wrapper">
   <h1>China Healthy Cities</h1>
   <h2>What are Chinese cities doing to meet Healthy City 2030 goals?</h2>
-  <canvas id="myChart" width=500 height=500></canvas>
+  <canvas id="myChart" width=250 height=250></canvas>
 </div>
 <!-- blue buttons -->
 <button class="button1" id="Beijing" onclick="set_beijing(0)">Beijing</button>
