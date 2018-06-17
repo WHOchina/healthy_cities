@@ -2,7 +2,7 @@
 layout: page
 title: Hangzhou
 jsarr: 
-- javascript/radar_chart.js
+- js/radar_chart.js
 cssar: 
 - css/radar_chart.css
 ---
