@@ -1,8 +1,10 @@
 ---
 layout: page
 title: Beijing
-jsarr: -javascript/radar_chart.js
-cssar: -css/radar_chart.css
+jsarr: 
+- javascript/radar_chart.js
+cssar: 
+- css/radar_chart.css
 ---
 {::nomarkdown}
 <body onload="set_beijing(0)">
