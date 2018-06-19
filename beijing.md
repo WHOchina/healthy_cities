@@ -6,7 +6,7 @@ jsarr:
 cssar: 
 - css/radar_chart.css
 ---
-<p class="message">
+
 {::nomarkdown}
 <body onload="set_beijing(0)">
 <div class="wrapper">
@@ -27,6 +27,9 @@ cssar:
 <button class="button2" id="Hangzhou" onclick="set_shanghai(1)">Shanghai</button>
 </body>
 {:/}
+
+<p class="message">
+ Hello, this is an example message
 </p>
 
 
