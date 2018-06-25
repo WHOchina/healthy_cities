@@ -13,7 +13,7 @@
       <div class="masthead">
         <div class="container">
           <h3 class="masthead-title">
-            <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
+            <a href="{{ site.baseurl }}/" title="Overview">{{ site.title }}</a>
             <small>{{ site.tagline }}</small>
           </h3>
         </div>
@@ -25,6 +25,16 @@
     </div>
 
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+    
+    {% for js in page.jsarr %}
+    <script type="text/javascript">
+    {% include {{ js }} %}
+    </script>
+    {% endfor %}
+    
+     {% for css in page.cssarr %}
+    <link rel="stylesheet" href="public/{{ css }}">
+    {% endfor %}
 
     <script>
       (function(document) {
