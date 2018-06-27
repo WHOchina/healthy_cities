@@ -3,6 +3,7 @@
     font-family: "PT Sans", Helvetica, Arial, sans-serif;
     font-size: .875rem; /* 15px */
     padding: 20px;
+    width: 80%;
 }
 
 /* Below this comment are the default layout settings, above this comment will be our specific css changed */
