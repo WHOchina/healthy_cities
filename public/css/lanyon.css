@@ -9,7 +9,7 @@
 
 .blue_msg{
     background-color: #97befc;
-    border-radius: 15px 0px;
+    border-radius: 15px;
 }
 
 .yellow_msg{
@@ -30,7 +30,7 @@
 
 .navy_msg{
     background-color: #515fff;
-    border-radius: 15px 0px;
+    border-radius: 15px;
 }
 
 /* Below this comment are the default layout settings, above this comment will be our specific css changed */
