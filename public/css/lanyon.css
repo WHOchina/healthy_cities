@@ -1,3 +1,5 @@
+/* Below is our css we included for message boxes, not the default layout CSS (that is even further below) */
+
 .blue_msg{
     background-color: #97befc;
     font-family: "PT Sans", Helvetica, Arial, sans-serif;
@@ -5,6 +7,8 @@
     padding: 20px;
     width: 80%;
 }
+
+.
 
 /* Below this comment are the default layout settings, above this comment will be our specific css changed */
 
