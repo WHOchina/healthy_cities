@@ -1,3 +1,11 @@
+.blue_msg{
+    background-color:#97befc;
+    font-family: "PT Sans", Helvetica, Arial, sans-serif;
+    font-size: .875rem; /* 15px */
+}
+
+/* Below this comment are the default layout settings, above this comment will be our specific css changed */
+
 /*
  *  ___
  * /\_ \
