@@ -1,37 +1,49 @@
 /* Below is our css we included for message boxes, not the default layout CSS (that is even further below) */
 
 /*These are for the messgae boxes on the overview page*/
-.overviewpage{
-    font-family: "PT Sans", Helvetica, Arial, sans-serif;
-    font-size: .875rem; /* 15px */
-    padding: 10px 5px;
-    margin-bottom: 0px;
-}
 
 .blue_msg{
     background-color: #97befc;
+    font-family: "PT Sans", Helvetica, Arial, sans-serif;
+    font-size: .875rem; /* 15px */
+    padding: 10px 5px;
     border-radius: 15px;
 }
 
 .yellow_msg{
     background-color: #ffdb4f;
+    font-family: "PT Sans", Helvetica, Arial, sans-serif;
+    font-size: .875rem; /* 15px */
+    padding: 10px 5px;
 }
 
 .purple_msg{
     background-color: #c978c9;
+    font-family: "PT Sans", Helvetica, Arial, sans-serif;
+    font-size: .875rem; /* 15px */
+    padding: 10px 5px;
 }
 
 .pink_msg{
     background-color: #ff5177;
+    font-family: "PT Sans", Helvetica, Arial, sans-serif;
+    font-size: .875rem; /* 15px */
+    padding: 10px 5px;
 }
 
 .green_msg{
     background-color: #77ffad;
+    font-family: "PT Sans", Helvetica, Arial, sans-serif;
+    font-size: .875rem; /* 15px */
+    padding: 10px 5px;
 }
 
 .navy_msg{
     background-color: #515fff;
     border-radius: 15px;
+    font-family: "PT Sans", Helvetica, Arial, sans-serif;
+    font-size: .875rem; /* 15px */
+    padding: 10px 5px;
 }
 
 /* Below this comment are the default layout settings, above this comment will be our specific css changed */
