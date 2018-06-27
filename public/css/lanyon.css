@@ -4,7 +4,7 @@
 .overviewpage{
     font-family: "PT Sans", Helvetica, Arial, sans-serif;
     font-size: .875rem; /* 15px */
-    padding: 5px 10px;
+    padding: 10px 5px;
 }
 
 .blue_msg{
@@ -22,6 +22,10 @@
 
 .pink_msg{
     background-color: #ff5177;
+}
+
+.green_msg{
+    background-color: #77ffad;
 }
 
 .navy_msg{
