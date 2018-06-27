@@ -4,7 +4,7 @@
     background-color: #97befc;
     font-family: "PT Sans", Helvetica, Arial, sans-serif;
     font-size: .875rem; /* 15px */
-    padding: 10px 5px;
+    padding: 5px 10px;
     border-radius: 15px;
 }
 
@@ -12,9 +12,29 @@
     background-color: #ffdb4f;
     font-family: "PT Sans", Helvetica, Arial, sans-serif;
     font-size: .875rem; /* 15px */
-    padding: 10px;
+    padding: 5px 10px;
 }
-  
+
+.purple_msg{
+    background-color: #c978c9;
+    font-family: "PT Sans", Helvetica, Arial, sans-serif;
+    font-size: .875rem; /* 15px */
+    padding: 5px 10px;
+}
+
+.pink_msg{
+    background-color: #ff5177;
+    font-family: "PT Sans", Helvetica, Arial, sans-serif;
+    font-size: .875rem; /* 15px */
+    padding: 5px 10px;
+}
+
+.navy_msg{
+    background-color: #515fff;
+    font-family: "PT Sans", Helvetica, Arial, sans-serif;
+    font-size: .875rem; /* 15px */
+    padding: 5px 10px;
+}
 
 /* Below this comment are the default layout settings, above this comment will be our specific css changed */
 
