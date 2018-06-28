@@ -6,7 +6,7 @@
     background-color: #00ccff;
     font-family: "PT Sans", Helvetica, Arial, sans-serif;
     font-size: .875rem; /* 15px */
-    padding: 10px 5px;
+    padding: 10px 20px;
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
 }
@@ -15,7 +15,7 @@
   background-color: #e6ffff;
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-size: .875rem; /* 15px */
-  padding: 10px 5px;
+  padding: 10px 20px;
   border-left: 1px black;
   border-right: 1px black;
 }
@@ -24,14 +24,14 @@
   background-color: #00ccff;
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-size: .875rem; /* 15px */
-  padding: 10px 5px;
+  padding: 10px 20px;
 }
   
 .end_msg{
     background-color: #e6ffff;
     font-family: "PT Sans", Helvetica, Arial, sans-serif;
     font-size: .875rem; /* 15px */
-    padding: 10px 5px;
+    padding: 10px 20px;
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
 }
