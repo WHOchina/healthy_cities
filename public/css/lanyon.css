@@ -3,7 +3,7 @@
 /*These are for the messgae boxes on the overview page*/
 
 .start_msg{
-    background-color: #00ace6;
+    background-color: #88b4e2;
     font-family: "PT Sans", Helvetica, Arial, sans-serif;
     font-size: .875rem; /* 15px */
     padding: 10px 20px;
@@ -12,7 +12,7 @@
 }
 
 .middle_msg1{
-  background-color: #e6ffff;
+  background-color: #dee5ff;
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-size: .875rem; /* 15px */
   padding: 10px 20px;
@@ -21,14 +21,14 @@
 }
 
 .middle_msg2{
-  background-color: #00ace6;
+  background-color: #88b4e2;
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-size: .875rem; /* 15px */
   padding: 10px 20px;
 }
   
 .end_msg{
-    background-color: #e6ffff;
+    background-color: #dee5ff;
     font-family: "PT Sans", Helvetica, Arial, sans-serif;
     font-size: .875rem; /* 15px */
     padding: 10px 20px;
